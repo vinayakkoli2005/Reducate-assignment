@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude / AI tooling — do not commit
+CLAUDE.md
+AGENTS.md
+.claude/
+.anthropic/
